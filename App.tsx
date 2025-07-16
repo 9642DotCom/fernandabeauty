@@ -133,7 +133,7 @@ const App: React.FC = () => {
           {/* Background Image Layer */}
           <div className="absolute inset-0 z-0">
             <img 
-              src="./fer.jpg" 
+              src="./images/fer.jpg" 
               alt="Eyelash background" 
               className="w-full h-full object-cover filter blur-[2px] scale-105"
             />
