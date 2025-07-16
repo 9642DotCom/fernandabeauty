@@ -144,7 +144,7 @@ const App: React.FC = () => {
           <div className="relative z-10 w-full py-20 md:py-32 flex flex-col items-center bg-black/20 backdrop-blur-md">
             <div className="relative mb-6">
                 <div className="absolute -inset-2 rounded-full bg-gradient-to-r from-pink-600 to-rose-400 blur-xl animate-pulse-slow"></div>
-                <img src="/fer.jpg" alt="Fernanda" className="relative w-48 h-48 md:w-56 md:h-56 rounded-full object-cover shadow-2xl border-4 border-pink-900/50"/>
+                <img src="/images/fer.jpg" alt="Fernanda" className="relative w-48 h-48 md:w-56 md:h-56 rounded-full object-cover shadow-2xl border-4 border-pink-900/50"/>
             </div>
             <h1 className="font-serif text-6xl md:text-8xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-white to-pink-200" style={{'textShadow': '0 0 15px rgba(236, 72, 153, 0.3)'}}>
               Fernanda
